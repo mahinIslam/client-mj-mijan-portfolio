@@ -284,7 +284,9 @@ header
 }
 
 .header-area .main-nav .nav li a {
-  color: #2a2a2a;
+  /*color: #2a2a2a;*/
+  color: #5bccf6;
+
 }
 
 .header-area .main-nav .nav li:hover a,
