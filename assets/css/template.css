@@ -638,7 +638,7 @@ banner
 
 #top .left-content {
   /*background-image: url(../images/top-left-bg.jpg);*/
-  background-image: url(../images/plant-against-blue-wall-background-with-copy-space.jpg);
+  background-image: url(../images/line-from-autumn-leaves.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -665,7 +665,7 @@ banner
 }
 
 #top .left-content h5 {
-  color: #fff;
+  color: #e7bc11;
   margin-top: 5px;
   text-transform: uppercase;
   letter-spacing: 3px;
